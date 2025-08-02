@@ -51,3 +51,9 @@ a {
  .menu a:hover{
     color: cadetblue;
  }
+ section{
+   font-size: 25px;
+ }
+ .img1{
+   height: 500px;
+ }
